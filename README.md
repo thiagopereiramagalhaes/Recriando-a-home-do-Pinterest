@@ -1,5 +1,6 @@
 # Recriando a home do Pinterest
-Recriei a animação da tela home do Pinterest. 
+Clonando a home do Pinterest com HTML, Sass e JavaScript
+Recriei a animação da tela home. 
 Todo o código possui comentários detalhando o processo de desenvolvimento.
 
 ![Alt text](img/clone-pinterest.png?raw=true "Print")
