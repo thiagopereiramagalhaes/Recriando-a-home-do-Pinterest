@@ -38,6 +38,7 @@ function exitScreen(index, exitDelay){
 
 //Cria os ciclos das animações
 function setupAimationCycle({ timePerScreen, exitDelay }){
+    const cycleTime = timePerScreen + exitDelay
     //Passa primeiro ciclo ou primeira tela
     let nextIndex = 0;
     //Função que passa a tela inicial e os novos ciclos
